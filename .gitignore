@@ -3,3 +3,6 @@
 ################################################################################
 
 /webapptest/obj
+/.vs/webapptest/v16/Server/sqlite3
+/webapptest/bin/Debug/netcoreapp2.2
+/.vs/webapptest
